@@ -6,7 +6,7 @@ Arkanoid game built with Raylib based on the Ankanoid on Raylib repo(https://git
 
 ## 🏃🏼‍♂️How to run
 Clone the repo ->
-cd Arkanoid!
+cd Arkanoid
 -> zig build run
 
 ## 🙏Thanks
