@@ -11,7 +11,7 @@ cd Arkanoid
 
 ## 🙏Thanks
 
-Arkanoid(https://github.com/SimonLSchlee/Arkanoid)
+zigraylib(https://github.com/SimonLSchlee/zigraylib)
 
 ## 📝license
 public domain or MIT
